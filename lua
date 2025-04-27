@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nuarproject/BGSI/refs/heads/main/Protected_6618178920838886.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nuarproject/BGSI/refs/heads/main/Protected_4273349827926166.txt"))()
