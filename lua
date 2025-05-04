@@ -1,5 +1,5 @@
 if game.PlaceId == 85896571713843 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/nuarproject/BGSI/refs/heads/main/Protected_1623507391189439.lua.txt"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nuarproject/update/refs/heads/main/Protected_4714424366228650.lua.txt"))()
 elseif game.PlaceId == 126884695634066 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nuarproject/grow-a-garden/refs/heads/main/Protected_5296687264479056.lua.txt"))()
 else
